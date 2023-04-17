@@ -1,4 +1,26 @@
 <style>
+
+<style>
+    /* CSS for centering the navigation bar */
+    nav {
+        width: 100%; /* Set width to 100% to take up the full width of its parent container */
+        text-align: center; /* Center align the content within the navigation bar */
+    }
+
+    nav a {
+        margin: 0 10px; /* Add margin on left and right to create space between the navigation links */
+    }
+</style>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#about">About</a>
+    <a href="#contact-us">Contact Us</a>
+    <a href="#reflection">Reflection</a>
+</nav>
+
+
 * {
   box-sizing: border-box;
 }
