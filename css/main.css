@@ -23,8 +23,8 @@ body {
 .button {
   display: inline-block;
   margin: 50px;
-  padding: 50px 50px;
-  font-size: 20px;
+  padding: 25px 25px;
+  font-size: 10px;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 2px;
