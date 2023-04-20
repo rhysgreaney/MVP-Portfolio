@@ -38,9 +38,11 @@ body {
 
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
-  padding: 10px;
   text-align: center;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 50px;
+  
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
