@@ -34,6 +34,13 @@ body {
   color: #ffffff;
   text-decoration: none;
 }
+/* Styling Linked-In button */
+.linked-in-button {
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
 
 /* Create three equal columns that floats next to each other */
 .column {
