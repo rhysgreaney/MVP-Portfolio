@@ -64,6 +64,12 @@ body {
   clear: both;
 }
 
+/* Styling contact us */
+.email-address {
+  font-size: 15px;
+  font-weight: bold;
+}
+
 /* Style the footer */
 .footer {
   text-align: center;
