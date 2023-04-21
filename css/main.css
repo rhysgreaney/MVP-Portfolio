@@ -57,6 +57,11 @@ body {
   clear: both;
 }
 
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Style the footer */
 .footer {
   text-align: center;
