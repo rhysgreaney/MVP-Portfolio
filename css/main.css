@@ -60,6 +60,8 @@ body {
 .contact-form {
   display: flex;
   flex-direction: column;
+  display: inline-block;
+  width: 100px;
 }
 
 /* Style the footer */
