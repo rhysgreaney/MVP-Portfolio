@@ -57,14 +57,6 @@ body {
   clear: both;
 }
 
-.contact-form {
-  display: flex;
-  flex-direction: column;
-  display: inline-block;
-  width: 100px;
-  margin-bottom: 10px;
-}
-
 /* Style the footer */
 .footer {
   text-align: center;
