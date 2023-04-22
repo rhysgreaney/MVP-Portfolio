@@ -19,6 +19,14 @@ body {
   font-size: 25px;
 }
 
+.hero-image {
+  background-image: url('images/hero-image.jpg');
+  background-size: cover
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
 /* Styling buttons */
 .button {
   display: inline-block;
