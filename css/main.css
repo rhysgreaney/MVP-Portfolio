@@ -44,7 +44,6 @@ body {
 
 /* Styling contact form */
 .contact-form {
-  align-items: center;
   flex-direction: column;
   justify-content: center;
 }
