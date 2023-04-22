@@ -12,15 +12,11 @@ body {
 }
 
 /* Style the header */
-header {
+.header {
+  background-color: #b2b2b2;
   padding: 25px;
   text-align: center;
   font-size: 25px;
-  background-image: url('images/hero-image.jpg');
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-  position: absolute;
 }
 
 /* Styling buttons */
