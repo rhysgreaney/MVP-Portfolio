@@ -51,8 +51,7 @@ body {
 /* Create three equal columns that floats next to each other */
 
 .column {
-  padding-right: 33.33%;
-  padding-left: 33.33%;
+  display: flex;
 }
 
 /* Clear floats after the columns */
