@@ -12,14 +12,11 @@ body {
 }
 
 /* Style the header */
-.header {
+header {
   background-color: #b2b2b2;
   padding: 25px;
   text-align: center;
   font-size: 25px;
-}
-
-.hero-image {
   background-image: url('images/hero-image.jpg');
   background-size: cover;
   height: 100%;
